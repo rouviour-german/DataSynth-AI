@@ -164,9 +164,13 @@ Contributions are welcome! Please follow these guidelines:
 
 ## 📄 License
 
-MIT License © Daniel Lopez
+MIT License © rouviour-german
 
 See [LICENSE](LICENSE) for details.
+
+---
+
+---
 
 ---
 
